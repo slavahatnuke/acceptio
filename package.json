@@ -1,0 +1,22 @@
+{
+  "name": "acceptio",
+  "version": "0.0.1",
+  "description": "acceptio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavahatnuke/acceptio.git"
+  },
+  "keywords": [
+    "acceptio"
+  ],
+  "author": "slava hatnuke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavahatnuke/acceptio/issues"
+  },
+  "homepage": "https://github.com/slavahatnuke/acceptio#readme"
+}
